@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-2i606f.hsteamid.com/sitemap.xml
